@@ -6,6 +6,5 @@ public class virtualizacion {
         System.out.println("implementacion de laboratoria multiusuario para practicas en un set de TV");
         System.out.println("Desarrolo  de videojuegos en el marco de la materia juegos de la carrera computacion ");
 
-
     }
 }
